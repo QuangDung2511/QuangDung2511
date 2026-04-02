@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dung (Matty) Nguyen
+# 👋 Hi, I'm Matt Nguyen (Nguyen Quang Dung)
 
 I am a Junior Computer Science major at the University of Information and Technology (VNU-HCM), focusing on machine learning, deep learning, and recommender systems. I am passionate about applying AI to solve real-world problems, specifically in the education and health domains.
 
