@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Matt Nguyen (Nguyen Quang Dung)
+# Hi, I'm Matt Nguyen (Nguyen Quang Dung)
 
 I am a Junior Computer Science major at the University of Information and Technology (VNU-HCM), focusing on machine learning, deep learning, and recommender systems. I am passionate about applying AI to solve real-world problems, specifically in the education and health domains.
 
 ---
 
-### 🧰 Languages and Tools
+### Languages and Tools
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -19,15 +19,15 @@ I am a Junior Computer Science major at the University of Information and Techno
 
 ---
 
-### 🚀 Key Focus Areas & Certifications
+### Key Focus Areas & Certifications
 
 -   **Recommendation Systems & GNNs:** Actively researching and building Device-Cloud Collaborative Learning frameworks using Graph Neural Networks.
 -   **Machine & Deep Learning:** Developing robust ML pipelines, from building tree-based algorithms entirely from scratch to implementing LSTM networks for complex time-series forecasting.
--   **Anomaly Detection:** 📜 **[NVIDIA Certified Competency](https://learn.nvidia.com/certificates?id=Sk7TpYRUQ0qxkSa1Tc-Q_A)** in Applications of AI for Anomaly Detection (Nov 2025).
+-   **Anomaly Detection:[NVIDIA Certified Competency](https://learn.nvidia.com/certificates?id=Sk7TpYRUQ0qxkSa1Tc-Q_A)** in Applications of AI for Anomaly Detection (Nov 2025).
 
 ---
 
-### 🛠️ Pinned Projects (The Showcase)
+### Pinned Projects (The Showcase)
 
 *Feel free to explore my top repositories below:*
 
@@ -42,6 +42,6 @@ I am a Junior Computer Science major at the University of Information and Techno
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 [Email](mailto:2511dung@gmail.com) | [Facebook](https://www.facebook.com/dung.quang.427797)
