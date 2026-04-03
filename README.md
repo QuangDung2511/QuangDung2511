@@ -27,7 +27,7 @@ I am a Junior Computer Science major at the University of Information and Techno
 
 ---
 
-### Pinned Projects (The Showcase)
+### Pinned Projects
 
 *Feel free to explore my top repositories below:*
 
